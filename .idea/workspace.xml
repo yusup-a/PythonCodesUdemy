@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2836fc21-961b-44ee-aaf5-484f6ad3dd35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CertifiedEntryLevelPythonProgrammer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2vxDItbJAuZV03zHwwoa16EKb9z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.activate_this.executor": "Run",
+    "Python.module1-first-program.executor": "Run",
+    "Python.module1-input.executor": "Run",
+    "Python.module1-more-about-print.executor": "Run",
+    "Python.module1-numerical-representations.executor": "Run",
+    "Python.module1-reassigning-values.executor": "Run",
+    "Python.module1-variables.executor": "Run",
+    "Python.module2-more-about-operators.executor": "Run",
+    "Python.module2-more-about-print-and-strings.executor": "Run",
+    "Python.module2-type-casting.executor": "Run",
+    "Python.module3-for-loop.executor": "Run",
+    "Python.module3-logical-operators-conditions.executor": "Run",
+    "Python.module3-loops-additional.executor": "Run",
+    "Python.module3-nested-if.executor": "Run",
+    "Python.module3-while-loop.executor": "Run",
+    "Python.module4-add-list.executor": "Run",
+    "Python.module4-copying-lists.executor": "Run",
+    "Python.module4-delete-list.executor": "Run",
+    "Python.module4-dictionary-operations.executor": "Run",
+    "Python.module4-further-string-features.executor": "Run",
+    "Python.module4-intro-lists.executor": "Run",
+    "Python.module4-intro-tuples.executor": "Run",
+    "Python.module4-iterating-lists.executor": "Run",
+    "Python.module4-list-change-positions.executor": "Run",
+    "Python.module4-list-checking-presence.executor": "Run",
+    "Python.module4-list-comprehensions.executor": "Run",
+    "Python.module4-nested-lists.executor": "Run",
+    "Python.module4-tuple-operations.executor": "Run",
+    "Python.module4-tuples-lists.executor": "Run",
+    "Python.module5-default-parameter-values.executor": "Run",
+    "Python.module5-function-parameters.executor": "Run",
+    "Python.module5-generators.executor": "Run",
+    "Python.module5-intro-functions.executor": "Run",
+    "Python.module5-name-scopes.executor": "Run",
+    "Python.module5-none.executor": "Run",
+    "Python.module5-recursion.executor": "Run",
+    "Python.module5-return.executor": "Run",
+    "Python.test1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2836fc21-961b-44ee-aaf5-484f6ad3dd35" name="Changes" comment="" />
+      <created>1745077754195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745077754195</updated>
+    </task>
+    <servers />
+  </component>
+</project>
